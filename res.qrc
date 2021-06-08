@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/background.png</file>
+        <file>res/blue.png</file>
+        <file>res/dark_blue.png</file>
+        <file>res/green.png</file>
+        <file>res/orange.png</file>
+        <file>res/purple.png</file>
+        <file>res/red.png</file>
+        <file>res/yellow.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>monogatari/Araragi_Karen.png</file>
+        <file>monogatari/Araragi_Koyomi.png</file>
+        <file>monogatari/Araragi_Tsukihi.png</file>
+        <file>monogatari/Hachikyuji_Mayoi.png</file>
+        <file>monogatari/Hanekawa_Tsubasa.png</file>
+        <file>monogatari/Kanbaru_Suruga.png</file>
+        <file>monogatari/Kissshot_Acerolaorion_Heartunder Blade.png</file>
+        <file>monogatari/Ononoki_Yotsugi.png</file>
+        <file>monogatari/Oshino_Ougi.png</file>
+        <file>monogatari/Sengoku_Nadeko.png</file>
+        <file>monogatari/Senjougahara_Hitagi.png</file>
+        <file>monogatari/Mogatari.png</file>
+    </qresource>
+</RCC>
